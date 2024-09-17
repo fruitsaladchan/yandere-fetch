@@ -1,6 +1,6 @@
 # yandere-fetch
 
-a python script used to fetch images from https://yande.re/
+a python script used to fetch images from https://yande.re/ based on tags and Characters
 
 # dependencies
 
