@@ -2,6 +2,8 @@
 
 a python script used to fetch images from https://yande.re/ based on tags and Characters
 
+- leaving tags and Characters will download most recent images from https://yande.re/
+
 # dependencies
 
 ```
