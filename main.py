@@ -73,7 +73,7 @@ def main():
         os.system("figlet yande.re fetch")
         slowprint("\033[1;36m ==============================================")
         slowprint(" ")
-        tag = input("Enter tags (e.g. long_hair, skirt, etc.): ").strip()
+        tag = input("Enter tags (e.g. swimsuits, ass, etc.): ").strip()
         character = input("Enter characters (e.g. hatsune_miku, kagamine_rin, etc.): ").strip()
 
         pages_input = input("Enter pages (e.g. 1 3 5 or 1-5 | default is 1 page): ").strip()
